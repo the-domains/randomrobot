@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: blahaha
-datePublished: '2016-03-03T13:53:32.000Z'
-dateModified: '2016-03-03T13:53:30.202Z'
+datePublished: '2016-03-03T13:55:42.279Z'
+dateModified: '2016-03-03T13:55:17.689Z'
 title: This is a test
 author: []
+sourcePath: _posts/2016-03-03-this-is-a-test.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-this-is-a-test.md
-published: true
 url: this-is-a-test/index.html
 _type: Article
 

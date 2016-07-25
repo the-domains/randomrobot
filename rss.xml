@@ -4,11 +4,18 @@
         <description><![CDATA[RandomRobot]]></description>
         <link>https://thegrid.ai/randomrobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 13:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 10:52:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/randomrobot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Hello test what am I doing?]]></title>
+            <description><![CDATA[<article><h1>Hello test what am I doing?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78d3ec6-e022-4cd9-ba26-a697ae1102d4.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c78d3ec6-e022-4cd9-ba26-a697ae1102d4.jpg</link>
+            <guid isPermaLink="false">e1bbfb23-46a4-481f-8f63-351be4c70c58</guid>
+            <pubDate>Mon, 25 Jul 2016 10:51:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This is a test]]></title>
-            <description><![CDATA[<article><h1>This is a test</h1><p>bla bla bla</p></article>]]></description>
+            <description><![CDATA[<p>bla bla bla</p>]]></description>
             <link>https://thegrid.ai/randomrobot/this-is-a-test/index.html</link>
             <guid isPermaLink="false">daeb99f1-9e70-45bb-bc78-b373726fa7e1</guid>
             <pubDate>Thu, 03 Mar 2016 13:55:42 GMT</pubDate>
